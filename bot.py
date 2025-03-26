@@ -29,7 +29,7 @@ async def get_character_reply(user_msg: str):
             "tgt": CHARACTER_ID,
         }
         response = await client.post(
-            "https://beta.character.ai/chat/streaming/",
+            "https://character.ai/chat/streaming/",
             json=payload,
             headers=headers,
             timeout=30.0
