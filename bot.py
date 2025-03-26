@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 TELEGRAM_BOT_TOKEN = '8025483084:AAH_CgKKebA0UUi_mKEKzk82YenNSQ2Li4M'  # замени на свой токен от BotFather
-CHARACTER_TOKEN = 'b565d20271877391f5a5f2e6aaa0553e72164b54'
+CHARACTER_TOKEN = 'ab0fb6d0ce6889984782c8e3eb33667fad9fc361'
 CHARACTER_ID = 'zQ7Yav1HdV_MzCUsXRaKbeVZuEoLOvlpXn2pSKr-LEU'  # нужно указать конкретный ID персонажа
 
 
